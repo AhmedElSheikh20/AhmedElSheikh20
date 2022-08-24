@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmedElSheikh
 - 👀 I’m interested in Product growth management
-- 🌱 I’m currently learning basic of code
-- 📫 You could contact me through https://twitter.com/ahmetseyhoglu20
+- 📫 You could contact me through https://linkedin.com/in/ahmed-elsheikh
 
 <!---
 AhmedElSheikh20/AhmedElSheikh20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
